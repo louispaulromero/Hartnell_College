@@ -1,6 +1,3 @@
-//Program name: p51.c
-//Louis Paul Romero
-//Date: October 23, 2016
 //Description: Lockers.  This program finds out which exact lockers are open, and how many lockers total are open out of 1000.
 
 #include <stdio.h>
