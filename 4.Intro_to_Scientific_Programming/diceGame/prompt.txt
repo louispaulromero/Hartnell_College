@@ -1,4 +1,4 @@
-Roll Dice (15pts)
+Roll Dice
 Write a Dice Game program that randomly generates two random numbers 1 - 6, that would result in output as shown below.
 
 Sample Run:
