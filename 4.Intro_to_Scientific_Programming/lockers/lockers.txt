@@ -1,0 +1,24 @@
+Lockers
+You have 1000 lockers and 1000 students
+
+All lockers are initiall locked.
+
+First student opens every locker
+
+2nd student closes every other locker
+
+3rd student opens(if closed) or closes(if opened) every 3rd locker
+
+4th student opens(if closed) or closes(if opened) every 4th locker
+
+...
+
+999th student opens(if closed) or closes(if opened) every 999th locker
+
+1000th student opens(if closed) or closes(if opened) every 1000th locker
+
+====
+
+Write a program to find out which exact lockers are open, and how many lockers total are open.
+
+Hint: There are 32 lockers open.

@@ -1,0 +1,32 @@
+Roll Dice (15pts)
+Write a Dice Game program that randomly generates two random numbers 1 - 6, that would result in output as shown below.
+
+Sample Run:
+
+Beat the computer!
+
+You rolled a 2 and a 1 (total =  3)
+
+Do you want to keep those? (Yes(1) or No(2))
+
+2
+
+Rolling again....
+
+You rolled a 4 and a 1 (total =  5)
+
+Do you want to keep those?  (Yes(1) or No(2))
+
+2
+
+Rolling again....
+
+You rolled a 1 and a 1 (total =  2)
+
+Do you want to keep those?  (Yes(1) or No(2))
+
+1
+
+The computer rolled 6 and 3 (total = 9)
+
+So sorry. You lose.

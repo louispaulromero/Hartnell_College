@@ -1,0 +1,36 @@
+Rock Paper Scissor (if/else) (15pts)
+Write a program to simulate rock-paper-scissors game.
+
+
+Each players enters 1, 2, 3 for Rock, Paper, Scissors.
+
+
+The program then shows the winner on the basis of:
+
+- Paper covers Rock
+- Rock breack Scissors
+- Scissors cut Paper
+- Tie
+Test your program multiple times to makes sure it works! Submit all 4 of your tests as a comment.
+
+Sample Runs:
+
+Enter Rock(1), Paper(2) or Scissors(3)
+Player 1: 1
+Player 2: 3
+Result: Player 1 wins, Rock breaks Scissors!
+
+Enter Rock(1), Paper(2) or Scissors(3)
+Player 1: 3
+Player 2: 2
+Result: Player 1 wins, Scissors cut paper!
+
+Enter Rock(1), Paper(2) or Scissors(3)
+Player 1: 2
+Player 2: 1
+Result: Player 1 wins, Paper covers rock!
+
+Enter Rock(1), Paper(2) or Scissors(3)
+Player 1: 3
+Player 2: 3
+Result: Tie!

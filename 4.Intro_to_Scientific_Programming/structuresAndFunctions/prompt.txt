@@ -1,0 +1,19 @@
+Structures and Functions
+1) Write a program which uses a structure strength. Use typedef.
+
+2) The structure has 4 float variables: d (diameter), p (load),  strain, stress.
+ 
+3) Declare a struct variable  of the strength type inside the main (NOT global)
+4) Your input (d and p) is done using a function. Pass the structure variable by pointer 
+ 
+5) Your computations are in a funcCalc, which returns a strength  structure variable to the main.
+(Compute the compression stress and the strain in the column.)
+Formulas:
+
+Area = (pi * d^2) / 4
+Stress = p / area
+Strain = stress / E
+E = 30 x 10^6
+6) Output is done in a function, pass structure variable by value 
+
+( Output the load, diameter, stress, and strain with proper format. )

@@ -1,0 +1,30 @@
+Arithmetic
+Write a program to let a child practice arithmetic skills.
+
+The program should first ask for what kind of practice is wanted: addition(1), subtraction(2), or multiplicatio(3)... (no division).
+
+Then, the program will have a loop for each of the the desired operations that lets the user repeat the practice as many times as desired,
+
+Two random numbers will be generated (0 - 9), and the child will have to add, subtract or multiply them.
+
+If the child answers the question correctly, congratulate them, and give them two different numbers to try.
+
+If the child answers incorrectly, the problem should be repeated (with the two same numbers).
+
+Sample Run:
+
+Would you like to add(1), subtract (2) or multiply(3): 1
+
+What is 2 + 2 equal to: 3
+
+That is incorrect, what is 2 + 2 equal to: 4
+
+Correct! Would you like to try again? (1 for Yes, 2 for No): 1
+
+What is 3 + 8 equal to: 3
+
+That is incorrect, what is 3 + 8 equal to: 11
+
+Correct! Would you like to try again? (1 for Yes, 2 for No): 2
+
+Thank you for playing!

@@ -1,0 +1,7 @@
+Final Program
+Write a PYTHON (Version 3) program which uses functions to:
+A) write 100 random numbers (100-200) into a file "finalNums.txt", numbers must be separated by a comma ","
+B) read the 100 numbers from "finalNums.txt" and RETURN an INTEGER list of ONLY those numbers divisible by 7 or 4
+C) show the original list from (B), sort the integer list and show sorted list. You may not use sort()
+D) show the min, max, average, median and total of the list from (B), AND write them to a file "finalCalc.txt".
+(You may not use any python build-in functions to calculate min, max, average)
