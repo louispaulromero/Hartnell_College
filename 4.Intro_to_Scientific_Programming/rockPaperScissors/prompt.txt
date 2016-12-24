@@ -1,4 +1,4 @@
-Rock Paper Scissor (if/else) (15pts)
+Rock Paper Scissors
 Write a program to simulate rock-paper-scissors game.
 
 
