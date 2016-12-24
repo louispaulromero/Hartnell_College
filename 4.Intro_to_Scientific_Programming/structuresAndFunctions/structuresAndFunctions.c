@@ -1,6 +1,3 @@
-//Louis Paul Romero
-//11/12/2016
-//p56.c
 //Structures and Functions
 
 #include <stdio.h>
